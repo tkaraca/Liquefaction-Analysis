@@ -1,0 +1,5 @@
+model,best_score_cv_recall_macro,n_candidates
+RandomForest,0.5115530303030302,48
+XGBoost,0.5138257575757577,32
+GradientBoosting,0.47738095238095235,24
+NeuralNetwork,0.4051948051948052,8
